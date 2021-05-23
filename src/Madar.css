@@ -1,0 +1,23 @@
+.Productcart{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.Productcart__image{
+    object-fit: contain;
+    width: 160px;
+    height: 160px;
+}
+.Productcart__title{
+    font-size: 16px;
+    font-weight: 600;
+}
+.Productcart__info{
+   padding-left: 20px;
+}
+.Productcart__info  > button{
+    border: 1px solid;
+    margin-top: 10px;
+    background-color: orange;
+ }
+ 
