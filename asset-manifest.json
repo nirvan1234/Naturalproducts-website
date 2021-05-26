@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Naturalproducts-website/static/css/main.1c34a636.chunk.css",
+    "main.js": "/Naturalproducts-website/static/js/main.43670b54.chunk.js",
+    "main.js.map": "/Naturalproducts-website/static/js/main.43670b54.chunk.js.map",
+    "runtime-main.js": "/Naturalproducts-website/static/js/runtime-main.49eddb76.js",
+    "runtime-main.js.map": "/Naturalproducts-website/static/js/runtime-main.49eddb76.js.map",
+    "static/js/2.18c1c815.chunk.js": "/Naturalproducts-website/static/js/2.18c1c815.chunk.js",
+    "static/js/2.18c1c815.chunk.js.map": "/Naturalproducts-website/static/js/2.18c1c815.chunk.js.map",
+    "static/js/3.0566838b.chunk.js": "/Naturalproducts-website/static/js/3.0566838b.chunk.js",
+    "static/js/3.0566838b.chunk.js.map": "/Naturalproducts-website/static/js/3.0566838b.chunk.js.map",
+    "index.html": "/Naturalproducts-website/index.html",
+    "static/css/main.1c34a636.chunk.css.map": "/Naturalproducts-website/static/css/main.1c34a636.chunk.css.map",
+    "static/js/2.18c1c815.chunk.js.LICENSE.txt": "/Naturalproducts-website/static/js/2.18c1c815.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49eddb76.js",
+    "static/js/2.18c1c815.chunk.js",
+    "static/css/main.1c34a636.chunk.css",
+    "static/js/main.43670b54.chunk.js"
+  ]
+}
