@@ -9,16 +9,27 @@ function Footer() {
         </div>
         <div className= "footerarea__links">
         <div className = "footerarea__linkarea">
-         <span>test1</span>
+          <div><h4>Get to know us</h4>
+         <div>About us</div>
+         <div>Careers</div>
+         <div>Press Release</div>
+         <div>Gift a Smile</div>
+        </div></div>
+        <div className = "footerarea__linkarea">
+        <div><h4>Connect with Us </h4>
+         <div>Instagram</div>
+         <div>Facebook</div>
+         <div>Twitter</div>
+         <div>Telegram</div>
+        </div>
         </div>
         <div className = "footerarea__linkarea">
-         <span>test2</span>
+        <div><h4>Let Us Help You</h4>
+         <div>Covid-19 Assistance</div>
+         <div>Your Account</div>
+         <div>Return Centre</div>
+         <div>Amazon App Download</div>
         </div>
-        <div className = "footerarea__linkarea">
-         <span>test3</span>
-        </div>
-        <div className = "footerarea__linkarea">
-         <span>test4</span>
         </div>
         </div>
         </div>

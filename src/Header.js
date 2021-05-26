@@ -12,7 +12,7 @@ function Header() {
             <nav className = "header"> 
             <img className = "header__logo" src = "" alt = "logo" src="https://www.qries.com/images/banner_logo.png" />
             <div className = "header__search">
-                <input type = "text" className= "header_searchInput" />
+                <input type = "text" className= "header__searchInput" />
                 <SearchIcon className = "header__searchIcon" /> 
             </div>
             

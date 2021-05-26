@@ -1,7 +1,6 @@
 import React from 'react'
 import { useStateValue } from './StateProvider';
 import  './ProductCart.css';
-import './Madar.css';
 
 
 
@@ -22,10 +21,10 @@ function ProductCart({ id,title,image,rating,price}) {
         <div className= "productCart">
             <img className= "productCart__image" src = {image} alt = ""  />
             <div className = "product__info">
-                <p className= "productcart__title" >{title}</p>
-                <p className= "productcart__price" >{price}</p>
+                <p className= "productCart__title" >{title}</p>
+                <p className= "productCart__price" >{price}</p>
             </div>
-            <div className= "productcart__rating">{
+            <div className= "productCart__rating">{
                 
             Array(rating)
             .fill()
@@ -33,9 +32,9 @@ function ProductCart({ id,title,image,rating,price}) {
                          (<span>*</span>)
                      ))
                  }
-
             </div>
-            <button onClick= {removeItem}>Remove from basket </button>
+            <div className= "productCart__button"> <button onClick= {removeItem}>Remove from basket </button> </div>
+            
         </div>
     )
 }
