@@ -9,14 +9,14 @@ function Footer() {
         </div>
         <div className= "footerarea__links">
         <div className = "footerarea__linkarea">
-          <div><h4>Get to know us</h4>
+          <div><h4>know us</h4>
          <div>About us</div>
          <div>Careers</div>
-         <div>Press Release</div>
+         <div>Release</div>
          <div>Gift a Smile</div>
         </div></div>
         <div className = "footerarea__linkarea">
-        <div><h4>Connect with Us </h4>
+        <div><h4>Connect  </h4>
          <div>Instagram</div>
          <div>Facebook</div>
          <div>Twitter</div>
@@ -24,11 +24,11 @@ function Footer() {
         </div>
         </div>
         <div className = "footerarea__linkarea">
-        <div><h4>Let Us Help You</h4>
-         <div>Covid-19 Assistance</div>
-         <div>Your Account</div>
-         <div>Return Centre</div>
-         <div>Amazon App Download</div>
+        <div><h4> Help </h4>
+         <div>Covid-19 </div>
+         <div>Account</div>
+         <div>Return </div>
+         <div>App</div>
         </div>
         </div>
         </div>
